@@ -1,4 +1,4 @@
-# DELA Presentatie
+# DELA Persentation
 
 ### 4.000.000 customers
 ### 50.000 funerals yearly

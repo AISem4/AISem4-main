@@ -7,7 +7,7 @@
 - No profit company, they don't have customers they call them members (cooperation)
 
 ## Problem Description
-het eerder kunenn voorspelen van pieken in het overlijden van mensen
+Het eerder kunenn voorspelen van pieken in het overlijden van mensen.
 
 ## What are our challenges
 - Optimizing planning and logistics around our funerals 
@@ -88,16 +88,8 @@ Multi dimensionaal maken
 
 Verder dan covid kijken. 
 Voorbeeld: klimaat verandering kan in nederland een peak aan doden veroorzaken over 20 jaar.
- 
-## 1e proposal
-Weer voorspellen want als het bijvoorbeeld veel te heet wordt in Nederland gaan er meer mensen dood.
-- Iets vinden tussen aantal doden en warm weer
-- Het weer van bijvoorbeeld de afgelopen weer pakt, elke dag het weer zoekt. Bijv 19 januari was het 41 graden, zijn er dan meer doden. 
-- Combineren met vergrijzing van Nederland + cijfers van weerpatronen (knmi)
-
 
 ## Afspraak Contact Persoon 
-
 Maak een afspraak met contactpersoon, maak een (kleine) presenatie over proposal een week van te voren. 
 
 - Presentatie
